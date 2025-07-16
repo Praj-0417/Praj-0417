@@ -47,10 +47,13 @@ Retinal vein segmentation and health indicator analysis using computer vision an
 
 ---
 
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praj-0417&theme=github-compact&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praj-0417&theme=github-compact&area=true&hide_border=true" alt="Contribution Graph" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Praj-0417&theme=radical&hide_border=true&fire=F85149&ring=F85149&currStreakLabel=F85149" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
@@ -70,4 +73,3 @@ Retinal vein segmentation and health indicator analysis using computer vision an
 ---
 
 ⭐️ *Thanks for visiting my profile. Feel free to explore my work or reach out for collaboration.*
-
