@@ -45,11 +45,12 @@ Retinal vein segmentation and health indicator analysis using computer vision an
 
 ---
 
-## 📈 GitHub Stats
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praj-0417&show_icons=true&theme=radical" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Praj-0417&theme=radical" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praj-0417&theme=github-compact&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -58,13 +59,15 @@ Retinal vein segmentation and health indicator analysis using computer vision an
 
 <p align="center">
   <a href="mailto:pranavraj0105@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-pranavraj0105@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/pranav-raj-705707212" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Pranav%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 ⭐️ *Thanks for visiting my profile. Feel free to explore my work or reach out for collaboration.*
+
