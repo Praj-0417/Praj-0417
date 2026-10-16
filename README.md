@@ -1,13 +1,13 @@
 
 <div align="center">
 
-# Pranav Raj
+# Pranav Raj 👋
 
 ### Software Engineering · Backend Systems · Machine Learning
 
 **B.Tech. Computer Science & Engineering | IIT Mandi | Class of 2027**
 
-Building backend systems and data-intensive applications, while exploring machine learning and AI.
+Building backend systems and data-intensive applications while exploring machine learning and AI.
 
 <p>
   <a href="mailto:pranavraj0105@gmail.com">
@@ -151,30 +151,34 @@ Helped organize **3+ competitive programming contests** and mentored **100+ stud
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Praj-0417&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praj-0417&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praj-0417&theme=tokyo-night&hide_border=true&area=true&custom_title=Pranav%27s%20Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Praj-0417&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
+  width="100%"
+  alt="Pranav's GitHub contribution activity graph"
+/>
+
 </div>
 
+## 🔥 Contribution Streak
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Praj-0417&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" alt="GitHub contribution streak in India Standard Time" />
+
+<img
+  src="https://streak-stats.demolab.com?user=Praj-0417&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata"
+  alt="Pranav's GitHub contribution streak"
+/>
+
 </div>
 
 ---
 
 ## 📫 Connect With Me
 
-- **Email:** [pranavraj0105@gmail.com](mailto:pranavraj0105@gmail.com)
-- **LinkedIn:** [Pranav Raj](https://www.linkedin.com/in/pranav-raj-705707212)
-- **GitHub:** [Praj-0417](https://github.com/Praj-0417)
-- **LeetCode:** [Pranav_Raj_01](https://leetcode.com/Pranav_Raj_01/)
+- 📧 [Email](mailto:pranavraj0105@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pranav-raj-705707212)
+- 💻 [GitHub](https://github.com/Praj-0417)
+- 🧠 [LeetCode](https://leetcode.com/Pranav_Raj_01/)
