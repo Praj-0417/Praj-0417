@@ -33,28 +33,43 @@ I am a final-year Computer Science student at the **Indian Institute of Technolo
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,sql" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,postgres" alt="Python, Java, C++, C, JavaScript and SQL" />
 </p>
 
 ### Backend, Frontend and Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,react,postgres,mongodb,redis" alt="Backend, frontend and databases" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,react,mongodb,redis" alt="Spring Boot, Node.js, Express.js, FastAPI, React, MongoDB and Redis" />
 </p>
 
 ### Cloud, DevOps and Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,postman" alt="Cloud and development tools" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,postman,vscode" alt="AWS, Docker, Kubernetes, Linux, Git, GitHub, Postman and VS Code" />
 </p>
 
 ### Machine Learning and Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="Machine learning tools" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow and OpenCV" />
 </p>
 
-`XGBoost` `FAISS` `Transformers` `NLP` `LangChain` `LangGraph` `LLMs` `RAG` `YOLOv8` `MedSAM` `LoRA` `nnU-Net` `OpenCV` `Grafana` `Kibana`
+<p>
+  <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge" alt="FAISS" />
+  <img src="https://img.shields.io/badge/Transformers-FCC624?style=for-the-badge" alt="Transformers" />
+  <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/LangChain-1C8C5E?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-2F80ED?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LLMs-8E44AD?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-D35400?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/MedSAM-0F766E?style=for-the-badge" alt="MedSAM" />
+  <img src="https://img.shields.io/badge/LoRA-7C3AED?style=for-the-badge" alt="LoRA" />
+  <img src="https://img.shields.io/badge/nnU--Net-2563EB?style=for-the-badge" alt="nnU-Net" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge" alt="Kibana" />
+</p>
 
 ---
 
@@ -127,22 +142,26 @@ A three-stage medical-imaging pipeline combining YOLOv8m, LoRA-fine-tuned MedSAM
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Praj-0417&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praj-0417&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <a href="https://github.com/Praj-0417">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Praj-0417&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight&cache_seconds=1800" alt="Live GitHub statistics" />
+  </a>
+  <a href="https://github.com/Praj-0417">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praj-0417&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&cache_seconds=1800" alt="Live top languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Praj-0417&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Praj-0417&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="GitHub trophies" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Praj-0417&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Praj-0417&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Live GitHub contribution streak" />
 </div>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praj-0417&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praj-0417&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=70a5fd&area=true&hide_border=true&radius=8&custom_title=Pranav%27s%20Contribution%20Activity" alt="Live GitHub contribution activity graph" width="95%" />
 </div>
 
 ---
