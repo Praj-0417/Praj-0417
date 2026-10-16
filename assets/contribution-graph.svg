@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Contribution Activity</title>
+  <desc id="desc">Repository-hosted contribution activity graph that is refreshed by GitHub Actions.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#20273a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="260" fill="url(#bg)" rx="14" />
+  <text x="40" y="90" fill="#70a5fd" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">
+    Contribution graph is enabled
+  </text>
+  <text x="40" y="140" fill="#bf91f3" font-family="Segoe UI, Arial, sans-serif" font-size="24">
+    This SVG is repository-hosted and refreshed daily via GitHub Actions.
+  </text>
+  <text x="40" y="185" fill="#38bdae" font-family="Segoe UI, Arial, sans-serif" font-size="22">
+    If this card is stale, run “Update Contribution Graph” workflow manually.
+  </text>
+</svg>

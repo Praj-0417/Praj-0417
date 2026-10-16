@@ -161,8 +161,15 @@ A three-stage medical-imaging pipeline combining YOLOv8m, LoRA-fine-tuned MedSAM
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praj-0417&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=70a5fd&area=true&hide_border=true&radius=8&custom_title=Pranav%27s%20Contribution%20Activity" alt="Live GitHub contribution activity graph" width="95%" />
+  <a href="https://github.com/Praj-0417?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="./assets/contribution-graph.svg" alt="GitHub contribution activity graph" width="95%" />
+  </a>
 </div>
+
+<p align="center">
+  If the graph image does not load, view my live contributions on
+  <a href="https://github.com/Praj-0417">GitHub Profile Contributions</a>.
+</p>
 
 ---
 
