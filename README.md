@@ -1,106 +1,155 @@
-<h1 align="center">Pranav Raj</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Final-Year Computer Science Student | Backend Engineering | Machine Learning</strong>
+# Hi, I'm Pranav Raj 👋
+
+### Final-Year Computer Science Student at IIT Mandi | Backend Engineering | Machine Learning
+
+🎓 B.Tech. Computer Science · Expected Graduation: **2027**  
+📍 India
+
+<p>
+  <a href="mailto:pranavraj0105@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/pranav-raj-705707212"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/Pranav_Raj_01/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
-<p align="center">
-  B.Tech. Computer Science student at IIT Mandi, graduating in 2027.
+<img src="https://komarev.com/ghpvc/?username=Praj-0417&style=flat-square&color=blue" alt="Profile views" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a final-year Computer Science student at the **Indian Institute of Technology, Mandi**, graduating in **2027**. I enjoy building backend systems, data-intensive applications, and machine learning solutions.
+
+- 💻 Interested in software engineering, backend development, distributed systems, and machine learning
+- 🧠 Strong foundation in data structures, algorithms, databases, operating systems, and computer networks
+- 🧩 **500+ LeetCode** problems and **1000+ total** programming problems solved
+- 🏆 LeetCode rating: **1717**, top **12.89%**
+
+## 🛠️ Technologies and Tools
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,sql" alt="Programming languages" />
 </p>
 
-<p align="center">
-  <a href="mailto:pranavraj0105@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/pranav-raj-705707212">LinkedIn</a> ·
-  <a href="https://leetcode.com/Pranav_Raj_01/">LeetCode</a>
+### Backend, Frontend and Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,react,postgres,mongodb,redis" alt="Backend, frontend and databases" />
 </p>
 
----
+### Cloud, DevOps and Development Tools
 
-## Profile
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,postman" alt="Cloud and development tools" />
+</p>
 
-Final-year B.Tech. Computer Science student at the Indian Institute of Technology, Mandi, with a 9.17/10 CGPA. Interested in software engineering, backend systems, distributed systems, data-intensive applications, and machine learning.
+### Machine Learning and Data
 
-- Graduating in **2027**
-- Software Engineer Intern at **Kotak Mahindra Bank**
-- **500+ LeetCode** problems and **1000+ total** problems solved
-- **LeetCode rating: 1717**, top 12.89%
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="Machine learning tools" />
+</p>
 
-## Experience
-
-### Software Engineer Intern — Kotak Mahindra Bank
-
-**Backend Engineering and Distributed Systems · Java · Spring Boot · AWS · REST APIs**
-
-- Automated credit-card onboarding for customers across **4+ partner channels**, reliably handling **700K+ monthly requests** through idempotent processing; built RESTful microservices in **Java/Spring Boot** using object-oriented design principles.
-- Architected a **6-node asynchronous event-driven workflow** following Agile methods, orchestrating **130K+ daily service calls**; removed blocking bureau integrations and reduced end-to-end **API latency by 25%**.
-- Maintained production services across **4–5 release cycles** using Kibana monitoring and rollback planning; participated in code reviews, JUnit/Mockito testing, CI/CD deployments, and PII masking for compliance.
+`XGBoost` `FAISS` `Transformers` `NLP` `LangChain` `LangGraph` `LLMs` `RAG` `YOLOv8` `MedSAM` `LoRA` `nnU-Net` `OpenCV` `Grafana` `Kibana`
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
-### Multilingual Business Entity Resolution
+### 🔎 Multilingual Business Entity Resolution
 
-**Amazon ML Challenge 2026 — Top 100 of 8000+ teams**
+**Amazon ML Challenge 2026 · Top 100 of 8000+ teams**
 
-- Performed large-scale data analysis and processing across **24.2M source records** and **1.73M test queries**, engineering a multilingual entity-resolution pipeline using FAISS, XGBoost, Transformers, and TF-IDF.
-- Built and evaluated models combining dense retrieval, character-trigram TF-IDF, XGBoost scoring, and cross-encoder reranking, achieving **0.987 macro F0.5** on the evaluation split.
-- Implemented data-quality validation, grouped data splits, calibrated prediction routing, and performance analysis for large-scale multilingual data.
+A multilingual entity-resolution pipeline processing **24.2M source records** and **1.73M test queries**.
 
-**Technologies:** `Python` `XGBoost` `FAISS` `Transformers` `NLP` `TF-IDF`
+- Combined dense retrieval, character-trigram TF-IDF, XGBoost scoring, and cross-encoder reranking.
+- Achieved **0.987 macro F0.5** on the evaluation split.
+- Implemented data-quality validation, grouped data splits, calibrated prediction routing, and performance analysis.
 
-[GitHub](https://github.com/Praj-0417/Amazon-ML-Challenge-2026) · [Architecture](https://praj-0417.github.io/Amazon-ML-Challenge-2026/architecture.html)
+`Python` `XGBoost` `FAISS` `Transformers` `NLP` `TF-IDF`
 
----
-
-### ScrapSaathi: AI-Powered Waste Management Platform
-
-- Architected **5 microservices** behind an API gateway with JWT authentication, OTP-verified registration, and role-based access control across **4 user roles**; implemented distributed rate limiting with Redis, returning HTTP 429 beyond **1,000 requests per 15 minutes**.
-- Added Redis cache-aside with a **1-hour TTL** and invalidation on writes for catalog reads, reducing **p95 latency by 90%** from **31 ms to 3 ms** at a **95%+ cache hit rate**, with automatic MongoDB fallback on cache failure.
-
-**Technologies:** `React` `Node.js` `Express.js` `MongoDB` `FastAPI` `FAISS` `Hugging Face` `RAG`
-
-[GitHub](https://github.com/Praj-0417/ScrapSathi) · [Live Demo](https://scrap-sathi-lyart.vercel.app/)
+<a href="https://github.com/Praj-0417/Amazon-ML-Challenge-2026">🔗 GitHub</a> · <a href="https://praj-0417.github.io/Amazon-ML-Challenge-2026/architecture.html">🌐 Architecture</a>
 
 ---
 
-### Multi-Modal Brain Tumor Segmentation Pipeline
+### ♻️ ScrapSaathi: AI-Powered Waste Management Platform
 
-- Built a three-stage multi-modal pipeline coupling **YOLOv8m**, **LoRA-fine-tuned MedSAM**, and **nnU-Net**, achieving Dice scores of **0.76 on SSA** and **0.64 on Pediatric** unseen datasets, outperforming SOTA by **33% and 42%**.
-- Fused T1ce, T2, and FLAIR into RGB-stacked volumes with **5 mm ROI masking**; fine-tuned MedSAM using LoRA and Tversky loss with α=0.7, achieving **0.93+ precision/recall** on untrained tumor types across 100 training epochs.
+A waste-management platform built with a service-oriented architecture.
 
-**Technologies:** `PyTorch` `YOLOv8` `MedSAM` `LoRA` `nnU-Net` `OpenCV`
+- Architected **5 microservices** behind an API gateway with JWT authentication, OTP verification, and RBAC across **4 user roles**.
+- Implemented Redis rate limiting with HTTP 429 responses beyond **1,000 requests per 15 minutes**.
+- Added Redis cache-aside with a **1-hour TTL**, reducing p95 latency by **90%** from **31 ms to 3 ms** at a **95%+ cache hit rate**.
 
-[GitHub](https://github.com/Praj-0417/Brain_Tumor_segmentation) · [Report](https://docs.google.com/presentation/d/1w_BFCxn8hc9H70to6h3_1vOmHWfLvOGO/edit?usp=sharing)
+`React` `Node.js` `Express.js` `MongoDB` `FastAPI` `FAISS` `Hugging Face` `RAG`
+
+<a href="https://github.com/Praj-0417/ScrapSathi">🔗 GitHub</a> · <a href="https://scrap-sathi-lyart.vercel.app/">🌐 Live Demo</a>
 
 ---
 
-## Technical Skills
+### 🧠 Multi-Modal Brain Tumor Segmentation Pipeline
 
-- **Languages:** Python, SQL, Java, C++, C, JavaScript
-- **Backend and Frameworks:** Spring Boot, React.js, Node.js, Express.js, FastAPI, REST APIs
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **Cloud and DevOps:** AWS, SQS, SNS, S3, DynamoDB, Lambda, Docker, Kubernetes, Linux, Git, CI/CD
-- **Data and Analytics:** Data Analysis, Data Processing, Data Quality, Predictive Modeling, Model Evaluation, Statistics, Grafana, Kibana
-- **Machine Learning:** PyTorch, TensorFlow, Transformers, NLP, LangChain, LangGraph, LLMs, RAG, FAISS
+A three-stage medical-imaging pipeline combining YOLOv8m, LoRA-fine-tuned MedSAM, and nnU-Net.
 
-## Achievements
+- Achieved Dice scores of **0.76 on SSA** and **0.64 on Pediatric** unseen datasets.
+- Outperformed SOTA by **33% and 42%** on the reported datasets.
+- Used T1ce, T2, and FLAIR RGB-stacked volumes with **5 mm ROI masking** and LoRA fine-tuning.
 
-- **LeetCode rating 1717**, top 12.89%; **500+ LeetCode** and **1000+ total** problems solved
-- **Top 100**, InMobi Codies 2026
-- **Top 100 of 8000+ teams**, Amazon ML Challenge 2026
-- **1st Prize**, KrackHack'24, GDSC IIT Mandi
-- **2nd Place**, HCL Deep Learning Hackathon among 60+ teams
-- **Top 10**, Chronos CTF, IIT Mandi
-- **Academic Excellence Award** by the Defence Minister for the highest departmental CGPA in first year
+`PyTorch` `YOLOv8` `MedSAM` `LoRA` `nnU-Net` `OpenCV`
 
-## Leadership
+<a href="https://github.com/Praj-0417/Brain_Tumor_segmentation">🔗 GitHub</a> · <a href="https://docs.google.com/presentation/d/1w_BFCxn8hc9H70to6h3_1vOmHWfLvOGO/edit?usp=sharing">📄 Report</a>
+
+---
+
+## 🏆 Achievements
+
+<p>
+  <img src="https://img.shields.io/badge/LeetCode-1717%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode rating" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-1000%2B-2ea44f?style=for-the-badge&logo=github" alt="Problems solved" />
+  <img src="https://img.shields.io/badge/Amazon%20ML%20Challenge-Top%20100-7F52FF?style=for-the-badge" alt="Amazon ML Challenge" />
+</p>
+
+- 🥇 **1st Prize**, KrackHack'24, GDSC IIT Mandi
+- 🥈 **2nd Place**, HCL Deep Learning Hackathon among 60+ teams
+- 🎯 **Top 100**, InMobi Codies 2026
+- 🏅 **Top 10**, Chronos CTF, IIT Mandi
+- 🎓 Academic Excellence Award by the Defence Minister for the highest departmental CGPA in first year
+
+## 👥 Leadership
 
 **Core Member, Kamand Prompt** — Led 3+ competitive programming contests and mentored **100+ students** in competitive programming and data structures.
 
 ---
 
-## Contact
+## 📊 GitHub Statistics
 
-- Email: [pranavraj0105@gmail.com](mailto:pranavraj0105@gmail.com)
-- LinkedIn: [Pranav Raj](https://www.linkedin.com/in/pranav-raj-705707212)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Praj-0417&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praj-0417&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Praj-0417&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Praj-0417&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praj-0417&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="95%" />
+</div>
+
+---
+
+## 📫 Contact
+
+- 📧 [pranavraj0105@gmail.com](mailto:pranavraj0105@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pranav-raj-705707212)
+- 💻 [GitHub](https://github.com/Praj-0417)
+- 🧠 [LeetCode](https://leetcode.com/Pranav_Raj_01/)
